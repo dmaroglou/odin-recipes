@@ -30,8 +30,12 @@ h2 {
 
 /* For recipe pages*/
 
-ol > li {
+ol > li{
     padding: 0.5rem;
+}
+
+ul > li {
+    padding: 0.2rem;
 }
 
 #recipe-div {
